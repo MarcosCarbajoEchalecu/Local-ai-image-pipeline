@@ -160,11 +160,14 @@ local-ai-image-pipeline/
 
 ## 💬 Testimonio del cliente
 
-> *"Ya va mejorando la cosa. Muchos errores que me saltaban los estoy arreglando yo. Después de una semana metiéndole 14 horitas te juro que hasta soñaba con los putos nodos. Pero bueno ya está dando sus frutos, así que bastante bien."*
-> — Abel, creador de contenido de motor en Instagram
+"Después de una semana de trabajo intenso con el entorno, ya está dando sus frutos. Te agradezco mucho la configuración y el soporte — sin esa base no habría llegado hasta aquí."
+— Abel, creador de contenido de motor en Instagram
 
-> *"Porfin estoy consiguiendo hacer imágenes consistentes, realistas y además sin restricciones. Justo lo que buscaba."*
-> — Abel, tras implementar el pipeline con Flux
+
+
+
+"Por fin estoy consiguiendo imágenes consistentes, realistas y con total control sobre el resultado. Justo lo que buscaba."
+— Abel, tras implementar el pipeline con Flux
 
 ---
 
